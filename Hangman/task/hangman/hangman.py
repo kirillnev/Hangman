@@ -1,3 +1,7 @@
 # Write your code here
+hidden_word = "python"
+
 print("H A N G M A N")
-print("The game will be available soon.")
+
+input_word = input("Guess the word: ")
+print("You survived!" if input_word == hidden_word else "You lost!")
