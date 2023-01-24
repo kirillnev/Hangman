@@ -890,5 +890,8 @@ files:
         HangmanTest('hangman.hangman').run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6089#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 24 Jan 2023 07:44:55 UTC"
 record: -1
